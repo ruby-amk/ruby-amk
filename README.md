@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,0,50,30&height=250&section=header&text=GAME%20OVER&fontSize=80&fontAlign=50&fontAlignY=40&desc=INSERT%20COIN%20TO%20CONTINUE&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
-</div>
-
-<div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxsM3B4anh0Znk0Y214Y3l5bm15czB5Z214ZnY0czB5Z214ZnY0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duNowzaVje6Di/giphy.gif" width="100px">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ5Y2NwdHZjdHNzN2Rkb2pmd3NoeWt0bGgyMzAyZ21lcTY3YjNvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="500px">
 
   ### <samp>👾 PLAYER 1 READY!</samp> 
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+[Namamu];Coding+is+my+New+Game+Plus;I+Love+Anime+%26+Retro+Games;Let's+Co-op!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Ruby;Coding+is+my+New+Game;And+I+Love+Anime+%26+Games;Let's+Co-op!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,8 +17,8 @@
 
 Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperlakukan setiap proyek seperti level baru yang harus ditaklukkan.
 
-* 🔭 **Current Quest:** Sedang mendalami **[Androind Mobile App Development]**.
-* 🛡️ **Class:** [Web Developer / Mobile Dev / Data Scientist].
+* 🔭 **Current Quest:** Sedang mendalami **Androind Mobile App Development**.
+* 🛡️ **Class:** Web Developer / Mobile Dev / 3D Modeling.
 * ⚡ **Mana Source:** Kopi & Musik Lo-Fi.
 * 🎌 **Anime Favorit:** [Evangelion], [Sword Art Online].
 * 💬 **Ask Me About:** Tech, Gaming.
@@ -48,27 +44,11 @@ Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperla
 
 ---
 
-### <samp>🏆 HIGH SCORES (Stats)</samp>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruby-amk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-amk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/ruby-amk/ruby-amk/blob/output/github-contribution-grid-snake.svg" alt="snake placeholder (perlu setup action)" />
-</div>
-
----
-
 ### <samp>🎮 MULTIPLAYER (Connect)</samp>
 
 <div align="center"> 
   <a href="https://instagram.com/ruby_anfasha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/ruby kusnendar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:rubyanfasha14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -79,8 +59,5 @@ Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperla
 
 <div align="center">
   <samp>Thanks for visiting! Don't forget to ⭐ repository.</samp>
-  <br>
-  <samp>(cB) 2025 ruby Corp.</samp>
-  <br>
-  <img src="https://media.giphy.com/media/LpDmM2wSt6KfS/giphy.gif" width="50px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZkMm9kNGtwNGI0MG1pM3Njazd6OHdmZWl1dWNjb2IzbmdsMm54OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" width="50px">
 </div>
