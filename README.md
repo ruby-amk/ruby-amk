@@ -19,12 +19,12 @@
 
 > *"It's not a bug, it's a feature!"*
 
-Hai! Saya **[Ruby Anfasha]**, seorang pengembang dari **[Indonesia]**. Saya memperlakukan setiap proyek seperti level baru yang harus ditaklukkan.
+Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperlakukan setiap proyek seperti level baru yang harus ditaklukkan.
 
 * 🔭 **Current Quest:** Sedang mendalami **[Androind Mobile App Development]**.
 * 🛡️ **Class:** [Web Developer / Mobile Dev / Data Scientist].
 * ⚡ **Mana Source:** Kopi & Musik Lo-Fi.
-* 🎌 **Anime Favorit:** [Sword Art Online], [Evangelion].
+* 🎌 **Anime Favorit:** [Evangelion], [Sword Art Online].
 * 💬 **Ask Me About:** Tech, Gaming.
 
 ---
@@ -51,12 +51,12 @@ Hai! Saya **[Ruby Anfasha]**, seorang pengembang dari **[Indonesia]**. Saya memp
 ### <samp>🏆 HIGH SCORES (Stats)</samp>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username-github-mu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-mu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruby-amk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-amk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F75C7E" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/username-github-mu/username-github-mu/blob/output/github-contribution-grid-snake.svg" alt="snake placeholder (perlu setup action)" />
+  <img src="https://github.com/ruby-amk/ruby-amk/blob/output/github-contribution-grid-snake.svg" alt="snake placeholder (perlu setup action)" />
 </div>
 
 ---
@@ -64,10 +64,10 @@ Hai! Saya **[Ruby Anfasha]**, seorang pengembang dari **[Indonesia]**. Saya memp
 ### <samp>🎮 MULTIPLAYER (Connect)</samp>
 
 <div align="center"> 
-  <a href="https://instagram.com/[ruby_anfasha]" target="_blank">
+  <a href="https://instagram.com/ruby_anfasha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/[ruby kusnendar]" target="_blank">
+  <a href="https://linkedin.com/in/ruby kusnendar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:rubyanfasha14@gmail.com">
@@ -80,7 +80,7 @@ Hai! Saya **[Ruby Anfasha]**, seorang pengembang dari **[Indonesia]**. Saya memp
 <div align="center">
   <samp>Thanks for visiting! Don't forget to ⭐ repository.</samp>
   <br>
-  <samp>(cB) 2025 [ruby] Corp.</samp>
+  <samp>(cB) 2025 ruby Corp.</samp>
   <br>
   <img src="https://media.giphy.com/media/LpDmM2wSt6KfS/giphy.gif" width="50px">
 </div>
