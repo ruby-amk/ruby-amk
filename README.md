@@ -19,13 +19,13 @@
 
 > *"It's not a bug, it's a feature!"*
 
-Hai! Saya **[Namamu]**, seorang pengembang dari **[Lokasimu]**. Saya memperlakukan setiap proyek seperti level baru yang harus ditaklukkan.
+Hai! Saya **[Ruby Anfasha]**, seorang pengembang dari **[Indonesia]**. Saya memperlakukan setiap proyek seperti level baru yang harus ditaklukkan.
 
-* 🔭 **Current Quest:** Sedang mendalami **[Teknologi yang sedang dipelajari]**.
+* 🔭 **Current Quest:** Sedang mendalami **[Androind Mobile App Development]**.
 * 🛡️ **Class:** [Web Developer / Mobile Dev / Data Scientist].
 * ⚡ **Mana Source:** Kopi & Musik Lo-Fi.
-* 🎌 **Anime Favorit:** [Judul Anime 1], [Judul Anime 2].
-* 💬 **Ask Me About:** Tech, Gaming, Lore Anime.
+* 🎌 **Anime Favorit:** [Sword Art Online], [Evangelion].
+* 💬 **Ask Me About:** Tech, Gaming.
 
 ---
 
@@ -64,13 +64,13 @@ Hai! Saya **[Namamu]**, seorang pengembang dari **[Lokasimu]**. Saya memperlakuk
 ### <samp>🎮 MULTIPLAYER (Connect)</samp>
 
 <div align="center"> 
-  <a href="https://instagram.com/[username]" target="_blank">
+  <a href="https://instagram.com/[ruby_anfasha]" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/[username]" target="_blank">
+  <a href="https://linkedin.com/in/[ruby kusnendar]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:emailmu@gmail.com">
+  <a href="mailto:rubyanfasha14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
@@ -80,7 +80,7 @@ Hai! Saya **[Namamu]**, seorang pengembang dari **[Lokasimu]**. Saya memperlakuk
 <div align="center">
   <samp>Thanks for visiting! Don't forget to ⭐ repository.</samp>
   <br>
-  <samp>(cB) 2024 [Namamu] Corp.</samp>
+  <samp>(cB) 2025 [ruby] Corp.</samp>
   <br>
   <img src="https://media.giphy.com/media/LpDmM2wSt6KfS/giphy.gif" width="50px">
 </div>
