@@ -51,13 +51,9 @@ Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperla
 
 ### <samp>🎮 MULTIPLAYER (Connect)</samp>
 
-<div align="center"> 
-  <a href="https://instagram.com/ruby_anfasha" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:rubyanfasha14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<div align="center">
+  <a href="https://instagram.com/ruby_anfasha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:rubyanfasha14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
 <br/>
