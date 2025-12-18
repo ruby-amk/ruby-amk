@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ5Y2NwdHZjdHNzN2Rkb2pmd3NoeWt0bGgyMzAyZ21lcTY3YjNvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ5Y2NwdHZjdHNzN2Rkb2pmd3NoeWt0bGgyMzAyZ21lcTY3YjNvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="500px">
 
   ### <samp>👾 PLAYER 1 READY!</samp> 
   
