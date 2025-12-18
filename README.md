@@ -20,7 +20,7 @@ Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperla
 * 🔭 **Current Quest:** Sedang mendalami **Androind Mobile App Development**.
 * 🛡️ **Class:** Web Developer / Mobile Dev / 3D Modeling.
 * ⚡ **Mana Source:** Kopi & Musik Lo-Fi.
-* 🎌 **Anime Favorit:** [Neon Genesis Evangelion], [Sword Art Online].
+* 🎌 **Anime Favorit:** [Neon Genesis Evangelion](https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion), [Sword Art Online](https://en.wikipedia.org/wiki/Sword_Art_Online).
 * 💬 **Ask Me About:** Tech, Gaming.
 
 ---
