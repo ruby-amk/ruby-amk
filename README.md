@@ -60,6 +60,6 @@ Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperla
 <br/>
 
 <div align="center">
-  <samp>Thanks for visiting! Don't forget to ⭐ repository.</samp>
+  <samp>Thanks for visiting! Don't forget to ⭐ repository</samp>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjZkMm9kNGtwNGI0MG1pM3Njazd6OHdmZWl1dWNjb2IzbmdsMm54OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ErZ8hv5eO92JW/giphy.gif" width="50px">
 </div>
