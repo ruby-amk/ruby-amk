@@ -45,8 +45,8 @@ Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperla
 ---
 ### <samp>📊 CHARACTER STATS (Stats)</samp>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ruby-amk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-amk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
+<!-- <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ruby-amk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruby-amk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p> -->
 
 ---
 
