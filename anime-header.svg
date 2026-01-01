@@ -1,0 +1,78 @@
+<svg width="800" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      /* Font yang tegas ala manga/komik */
+      .anime-text {
+        font-family: 'Arial Black', 'Impact', sans-serif;
+        font-size: 60px;
+        fill: #ffffff;
+        text-anchor: middle;
+        dominant-baseline: middle;
+        filter: url(#glow);
+        font-style: italic;
+        /* Animasi teks sedikit bergetar */
+        animation: textShake 0.2s infinite;
+      }
+
+      /* Grup garis kecepatan */
+      .speed-lines {
+        transform-origin: center;
+      }
+
+      /* Garis individu */
+      .speed-line {
+        fill: #58a6ff; /* Warna biru terang khas energi */
+        opacity: 0; /* Mulai tersembunyi */
+      }
+
+      /* ANIMASI 1: Efek garis melesat dan berkedip acak */
+      @keyframes speedFlash {
+        0%, 100% { opacity: 0.1; transform: scale(1) translate(0, 0); }
+        25% { opacity: 0.8; transform: scale(1.1) translate(-5px, 2px); }
+        50% { opacity: 0.4; transform: scale(0.9) translate(5px, -2px); }
+        75% { opacity: 1; transform: scale(1.2) translate(-2px, 5px); }
+      }
+
+      /* ANIMASI 2: Getaran halus pada teks */
+      @keyframes textShake {
+        0% { transform: translate(1px, 1px) rotate(0deg); }
+        50% { transform: translate(-1px, -1px) rotate(-0.5deg); }
+        100% { transform: translate(1px, -1px) rotate(0deg); }
+      }
+
+      /* Menerapkan animasi ke garis dengan delay berbeda agar terlihat kacau/cepat */
+      .l1 { animation: speedFlash 0.3s infinite linear; }
+      .l2 { animation: speedFlash 0.4s infinite linear 0.1s; }
+      .l3 { animation: speedFlash 0.2s infinite linear 0.2s; }
+      .l4 { animation: speedFlash 0.5s infinite linear 0.1s; }
+      .l5 { animation: speedFlash 0.3s infinite linear 0.3s; }
+      .l6 { animation: speedFlash 0.4s infinite linear 0.2s; }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0d1117" />
+
+  <g class="speed-lines">
+    <polygon class="speed-line l1" points="-100,-50 400,150 -50,-100" />
+    <polygon class="speed-line l2" points="100,-100 400,150 50,-120" />
+    <polygon class="speed-line l3" points="900,-50 400,150 850,-100" />
+    <polygon class="speed-line l4" points="700,-100 400,150 750,-120" />
+    <polygon class="speed-line l5" points="-100,350 400,150 -50,400" />
+    <polygon class="speed-line l6" points="900,350 400,150 850,400" />
+    <rect class="speed-line l1" x="-50" y="145" width="300" height="10" fill="#fff"/>
+    <rect class="speed-line l3" x="550" y="145" width="300" height="10" fill="#fff"/>
+  </g>
+
+  <text x="50%" y="50%" class="anime-text">
+    YOUR NAME-SENPAI
+  </text>
+
+</svg>
