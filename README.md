@@ -1,15 +1,15 @@
 <div align="center">
   
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ5Y2NwdHZjdHNzN2Rkb2pmd3NoeWt0bGgyMzAyZ21lcTY3YjNvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="500px">
-
+<!-- 
   ### <samp>👾 PLAYER 1 READY!</samp> 
   
-  <!-- <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=VT323&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Ruby;Coding+is+my+New+Game;And+I+Love+Anime+%26+Games;Let's+Co-op!" alt="Typing SVG" />
-  </a> -->
+  </a>
 </div>
 
----
+--- -->
 
 ### <samp>🕹️ MISSION BRIEFING (About Me)</samp>
 
