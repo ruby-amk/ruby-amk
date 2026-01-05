@@ -13,10 +13,6 @@
 
 ### <samp>🕹️ MISSION BRIEFING (About Me)</samp>
 
-> *"It's not a bug, it's a feature!"*
-
-Hai! Saya **Ruby Anfasha**, seorang pengembang dari **Indonesia**. Saya memperlakukan setiap proyek seperti level baru yang harus ditaklukkan.
-
 * 🔭 **Current Quest:** Sedang mendalami **Androind Mobile App Development**.
 * 🛡️ **Class:** Web Developer / Mobile Dev / 3D Modeling.
 * ⚡ **Mana Source:** Kopi & Musik Lo-Fi.
