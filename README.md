@@ -11,7 +11,7 @@ Building apps with [Flutter](https://flutter.dev) & exploring [Hyprland](https:/
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,linux,arch,vim,php,js,mysql,firebase,blender,vscode,git" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,arch,linux,vim,php,js,mysql,firebase,blender,vscode,git" alt="My Skills" />
   </a>
 </p>
 
